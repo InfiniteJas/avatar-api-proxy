@@ -1,0 +1,22 @@
+{
+  "name": "avatar-api-proxy",
+  "version": "1.0.0",
+  "description": "API Proxy for Azure Assistant Avatar integration with Kazakhstan Law and eGov services",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "azure",
+    "assistant",
+    "api",
+    "proxy",
+    "kazakhstan"
+  ],
+  "author": "Avatar Project",
+  "license": "MIT"
+}
